@@ -8,7 +8,7 @@
 import MyComponent from "./MyComponent.jsx";
 import Button from "./Button.jsx";
 import ProfilePic from "./ProfilePic.jsx";
-
+import MyComponent2 from "./MyComponent2.jsx";
 function App() {
   //   const fruits = [
   //     { id: 1, name: "Apple", price: 100 },
@@ -30,6 +30,8 @@ function App() {
       {/* <ProfilePic />
        <Button /> */}
       <MyComponent />
+      <br />
+      <MyComponent2/>
       {/* <Header /> */}
    
 
