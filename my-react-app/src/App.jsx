@@ -5,6 +5,7 @@
 // import Student from "./Student.jsx";
 // import List from "./List.jsx";
 // import UserGreeting from "./UserGreeting.jsx";
+import MyComponent from "./MyComponent.jsx";
 import Button from "./Button.jsx";
 import ProfilePic from "./ProfilePic.jsx";
 
@@ -26,8 +27,9 @@ function App() {
 
   return (
     <>
-      <ProfilePic />
-       <Button />
+      {/* <ProfilePic />
+       <Button /> */}
+      <MyComponent />
       {/* <Header /> */}
    
 
